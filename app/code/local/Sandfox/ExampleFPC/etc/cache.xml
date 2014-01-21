@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <placeholders>
+        <sandfox_examplefpc>
+            <block>examplefpc/message</block>
+            <name>sandfox.fpc.message</name>
+            <placeholder>SANDFOX_EXAMPLEFPC_MESSAGE_CACHE</placeholder><!-- Can be any unique name -->
+            <container>Sandfox_ExampleFPC_Model_Container_Message</container>
+            <cache_lifetime>3</cache_lifetime>
+        </sandfox_examplefpc>
+    </placeholders>
+</config>

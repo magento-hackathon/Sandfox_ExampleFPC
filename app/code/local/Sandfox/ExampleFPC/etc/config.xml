@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sandfox_ExampleFPC>
+            <version>0.1.0</version>
+        </Sandfox_ExampleFPC>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <examplefpc>
+                    <file>sandfox/examplefpc.xml</file>
+                </examplefpc>
+            </updates>
+        </layout>
+    </frontend>
+    <global>
+        <models>
+            <examplefpc>
+                <class>Sandfox_ExampleFPC_Model</class>
+            </examplefpc>
+        </models>
+        <blocks>
+            <examplefpc>
+                <class>Sandfox_ExampleFPC_Block</class>
+            </examplefpc>
+        </blocks>
+        <helpers>
+            <examplefpc>
+                <class>Sandfox_ExampleFPC_Helper</class>
+            </examplefpc>
+        </helpers>
+    </global>
+</config>

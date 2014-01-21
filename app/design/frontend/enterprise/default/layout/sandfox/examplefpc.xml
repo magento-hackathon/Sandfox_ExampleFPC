@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="after_body_start">
+            <block type="examplefpc/message" name="sandfox.fpc.message" />
+        </reference>
+    </default>
+</layout>

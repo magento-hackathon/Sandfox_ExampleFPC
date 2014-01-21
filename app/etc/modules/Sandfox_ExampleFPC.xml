@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sandfox_ExampleFPC>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Sandfox_ExampleFPC>
+    </modules>
+</config>

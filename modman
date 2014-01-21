@@ -1,0 +1,4 @@
+app/code/local/Sandfox/ExampleFPC/                                   app/code/local/Sandfox/ExampleFPC/
+app/design/frontend/enterprise/default/layout/sandfox/examplefpc.xml app/design/frontend/enterprise/default/layout/sandfox/examplefpc.xml
+app/design/frontend/enterprise/default/template/sandfox/examplefpc   app/design/frontend/enterprise/default/template/sandfox/examplefpc
+app/etc/modules/Sandfox_ExampleFPC.xml                               app/etc/modules/Sandfox_ExampleFPC.xml
